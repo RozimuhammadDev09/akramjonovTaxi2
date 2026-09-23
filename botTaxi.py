@@ -6,8 +6,8 @@ from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 
 # =================== TELEGRAM API ===================
-api_id = 38017100
-api_hash = '0d1ee14a452e04c86c4dd37709bb7a2f'
+api_id = 33505232
+api_hash = '36d92982097114a1a98c0b82b35ec015'
 
 # =================== TELEGRAM CLIENT ===================
 from telethon.sessions import StringSession
@@ -24,12 +24,12 @@ client = TelegramClient(
 )
 # =================== SKIP CHAT ID ===================
 SKIP_CHAT_IDS = [
-    -1003431421989
+    -1003906606591
 ]
 
 # =================== TARGET CHAT ID ===================
 TARGET_CHAT_IDS = [
-    -1003431421989
+    -1003906606591
 ]
 
 # =================== KECHIKISH (soniyada) ===================

@@ -34,7 +34,7 @@ TARGET_CHAT_IDS = [
 
 # =================== KECHIKISH (soniyada) ===================
 # E'lon guruhdan kelgandan keyin necha soniyadan so'ng yuboriladi
-SEND_DELAY = 5  # xohlasangiz 15 qilib qo'ying
+SEND_DELAY = 3  # xohlasangiz 15 qilib qo'ying
 
 # =================== KALIT SO‘ZLAR ===================
 KEYWORDS = [
